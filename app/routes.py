@@ -10,7 +10,7 @@ def load_quiz(quiz_name):
 @app.route('/')
 @app.route('/index')
 def index():
-    quizzes = ['js_quiz', 'aws_quiz']
+    quizzes = ['js_quiz', 'cloud_quiz']
     return render_template('index.html', quizzes=quizzes)
 
 @app.route('/quiz/<quiz_name>', methods=['GET', 'POST'])

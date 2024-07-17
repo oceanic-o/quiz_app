@@ -1,0 +1,14 @@
+[
+    {
+        "question": "What does 'var' stand for in JavaScript?",
+        "options": ["variable", "vary", "variant", "value"],
+        "answer": "variable"
+    },
+    {
+        "question": "Which company developed JavaScript?",
+        "options": ["Mozilla", "Netscape", "Microsoft", "Apple"],
+        "answer": "Netscape"
+    }
+]
+
+

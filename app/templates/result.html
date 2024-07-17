@@ -1,0 +1,7 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h2>Your Result</h2>
+<p>You scored {{ score }} out of {{ total }}!</p>
+<a href="{{ url_for('index') }}">Take another quiz</a>
+{% endblock %}

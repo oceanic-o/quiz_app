@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h2>Welcome to the Quiz App!</h2>
+<p>Select a quiz to get started:</p>
+<ul>
+    {% for quiz in quizzes %}
+    <li><a href="{{ url_for('quiz', quiz_name=quiz) }}">{{ quiz.replace('_', ' ').title() }}</a></li>
+    {% endfor %}
+</ul>
+{% endblock %}

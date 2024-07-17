@@ -1,0 +1,130 @@
+{
+    "title": "Cloud Computing",
+    "questions": [
+        {
+            "text": "What does S3 stand for?",
+            "options": ["Simple Storage Service", "Secure Storage Service", "Simple Secure Service"],
+            "correct": "Simple Storage Service"
+        },
+        {
+            "text": "Which AWS service is used for compute?",
+            "options": ["EC2", "S3", "RDS"],
+            "correct": "EC2"
+        },
+        {
+            "text": "What is the main advantage of cloud computing?",
+            "options": ["Scalability", "High cost", "Limited access"],
+            "correct": "Scalability"
+        },
+        {
+            "text": "Which of the following is a type of cloud deployment model?",
+            "options": ["Private Cloud", "Personal Cloud", "External Cloud"],
+            "correct": "Private Cloud"
+        },
+        {
+            "text": "What does SaaS stand for?",
+            "options": ["Software as a Service", "System as a Service", "Storage as a Service"],
+            "correct": "Software as a Service"
+        },
+        {
+            "text": "Which service model provides hardware and software tools over the internet?",
+            "options": ["IaaS", "PaaS", "SaaS"],
+            "correct": "PaaS"
+        },
+        {
+            "text": "What does IaaS stand for?",
+            "options": ["Infrastructure as a Service", "Internet as a Service", "Interface as a Service"],
+            "correct": "Infrastructure as a Service"
+        },
+        {
+            "text": "Which AWS service is used for databases?",
+            "options": ["RDS", "Lambda", "S3"],
+            "correct": "RDS"
+        },
+        {
+            "text": "What is the role of a hypervisor in cloud computing?",
+            "options": ["Manage virtual machines", "Secure data", "Optimize storage"],
+            "correct": "Manage virtual machines"
+        },
+        {
+            "text": "Which of the following is an example of a cloud storage service?",
+            "options": ["Dropbox", "Photoshop", "Slack"],
+            "correct": "Dropbox"
+        },
+        {
+            "text": "Which cloud model offers services that are available to the general public?",
+            "options": ["Public Cloud", "Private Cloud", "Hybrid Cloud"],
+            "correct": "Public Cloud"
+        },
+        {
+            "text": "Which cloud service model provides virtualized computing resources over the internet?",
+            "options": ["IaaS", "PaaS", "SaaS"],
+            "correct": "IaaS"
+        },
+        {
+            "text": "What does PaaS stand for?",
+            "options": ["Platform as a Service", "Product as a Service", "Programming as a Service"],
+            "correct": "Platform as a Service"
+        },
+        {
+            "text": "Which cloud model combines public and private clouds?",
+            "options": ["Hybrid Cloud", "Distributed Cloud", "Community Cloud"],
+            "correct": "Hybrid Cloud"
+        },
+        {
+            "text": "Which of the following is a benefit of cloud computing?",
+            "options": ["Reduced IT costs", "Increased physical storage needs", "Limited scalability"],
+            "correct": "Reduced IT costs"
+        },
+        {
+            "text": "Which of the following is a popular open-source cloud platform?",
+            "options": ["OpenStack", "CloudSystem", "SkyStack"],
+            "correct": "OpenStack"
+        },
+        {
+            "text": "What is serverless computing?",
+            "options": ["A model where the cloud provider manages the server infrastructure", "A model without servers", "A model for physical server hosting"],
+            "correct": "A model where the cloud provider manages the server infrastructure"
+        },
+        {
+            "text": "Which of the following is an example of a PaaS offering?",
+            "options": ["Google App Engine", "AWS EC2", "Dropbox"],
+            "correct": "Google App Engine"
+        },
+        {
+            "text": "Which AWS service is used for object storage?",
+            "options": ["S3", "RDS", "EC2"],
+            "correct": "S3"
+        },
+        {
+            "text": "What does CDN stand for in cloud computing?",
+            "options": ["Content Delivery Network", "Cloud Data Network", "Central Data Network"],
+            "correct": "Content Delivery Network"
+        },
+        {
+            "text": "Which cloud computing concept involves distributing services over multiple geographic regions?",
+            "options": ["Edge computing", "Regional computing", "Distributed computing"],
+            "correct": "Edge computing"
+        },
+        {
+            "text": "What is the primary benefit of using a multi-cloud strategy?",
+            "options": ["Avoid vendor lock-in", "Increase vendor dependence", "Limit scalability"],
+            "correct": "Avoid vendor lock-in"
+        },
+        {
+            "text": "Which tool is commonly used for container orchestration in the cloud?",
+            "options": ["Kubernetes", "Docker", "VMware"],
+            "correct": "Kubernetes"
+        },
+        {
+            "text": "What does API stand for in the context of cloud services?",
+            "options": ["Application Programming Interface", "Application Platform Interface", "Application Provision Interface"],
+            "correct": "Application Programming Interface"
+        },
+        {
+            "text": "Which AWS service allows for running code without provisioning or managing servers?",
+            "options": ["Lambda", "EC2", "RDS"],
+            "correct": "Lambda"
+        }
+    ]
+}

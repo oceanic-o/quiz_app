@@ -1,0 +1,105 @@
+{
+    "title": "JavaScript",
+    "questions": [
+        {
+            "text": "What is JavaScript primarily used for?",
+            "options": ["Web development", "Database management", "Operating systems"],
+            "correct": "Web development"
+        },
+        {
+            "text": "Which of the following is a JavaScript framework for building user interfaces?",
+            "options": ["React", "Django", "Flask"],
+            "correct": "React"
+        },
+        {
+            "text": "What is Node.js?",
+            "options": ["JavaScript runtime", "JavaScript library", "CSS framework"],
+            "correct": "JavaScript runtime"
+        },
+        {
+            "text": "Which method is used to create a React component?",
+            "options": ["React.createElement", "React.newComponent", "React.createComponent"],
+            "correct": "React.createElement"
+        },
+        {
+            "text": "Which of the following is used to handle asynchronous operations in JavaScript?",
+            "options": ["Promises", "Loops", "Objects"],
+            "correct": "Promises"
+        },
+        {
+            "text": "What does the 'useState' hook in React do?",
+            "options": ["Manages state in functional components", "Fetches data from an API", "Routes user to different pages"],
+            "correct": "Manages state in functional components"
+        },
+        {
+            "text": "Which command is used to initialize a Node.js project?",
+            "options": ["npm init", "node start", "npm install"],
+            "correct": "npm init"
+        },
+        {
+            "text": "What is JSX in React?",
+            "options": ["JavaScript XML", "JavaScript Extension", "Java Syntax Extension"],
+            "correct": "JavaScript XML"
+        },
+        {
+            "text": "Which method is used to import modules in Node.js?",
+            "options": ["require()", "importModule()", "include()"],
+            "correct": "require()"
+        },
+        {
+            "text": "What is the purpose of 'componentDidMount' in React?",
+            "options": ["To execute code after the component is rendered", "To update the state", "To handle errors"],
+            "correct": "To execute code after the component is rendered"
+        },
+        {
+            "text": "Which of the following is a built-in module in Node.js for handling file operations?",
+            "options": ["fs", "http", "url"],
+            "correct": "fs"
+        },
+        {
+            "text": "What does 'this' keyword refer to in JavaScript?",
+            "options": ["Current execution context", "Global object", "DOM element"],
+            "correct": "Current execution context"
+        },
+        {
+            "text": "Which hook is used to perform side effects in functional React components?",
+            "options": ["useEffect", "useState", "useReducer"],
+            "correct": "useEffect"
+        },
+        {
+            "text": "How do you create a new branch in Git?",
+            "options": ["git checkout -b branch_name", "git create branch_name", "git new branch_name"],
+            "correct": "git checkout -b branch_name"
+        },
+        {
+            "text": "Which of the following is a package manager for JavaScript?",
+            "options": ["npm", "pip", "gem"],
+            "correct": "npm"
+        },
+        {
+            "text": "What is the use of the 'key' prop in React?",
+            "options": ["To uniquely identify elements in an array", "To add a class to an element", "To store a value in state"],
+            "correct": "To uniquely identify elements in an array"
+        },
+        {
+            "text": "Which command is used to install a package globally using npm?",
+            "options": ["npm install -g package_name", "npm global install package_name", "npm add -g package_name"],
+            "correct": "npm install -g package_name"
+        },
+        {
+            "text": "What is a middleware in Node.js?",
+            "options": ["A function that processes requests", "A tool to manage databases", "A way to render views"],
+            "correct": "A function that processes requests"
+        },
+        {
+            "text": "Which method is used to update state in a React class component?",
+            "options": ["setState()", "updateState()", "changeState()"],
+            "correct": "setState()"
+        },
+        {
+            "text": "What is the output of 'typeof null' in JavaScript?",
+            "options": ["object", "null", "undefined"],
+            "correct": "object"
+        }
+    ]
+}
